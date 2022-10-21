@@ -1,1 +1,3 @@
-# aboutMe
+# Home Page
+## My name is Brendan Graham
+If you would like to get to know a little bit more about me, then feel free to browse the other links I have.
