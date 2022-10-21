@@ -5,3 +5,5 @@ If you would like to get to know a little bit more about me, then feel free to b
 [Hobbies](./Hobbies.md)
 
 [Sample Code](./Code.md)
+
+[Work](./Work.md)
