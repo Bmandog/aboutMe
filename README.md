@@ -7,3 +7,5 @@ If you would like to get to know a little bit more about me, then feel free to b
 [Sample Code](./Code.md)
 
 [Work](./Work.md)
+
+[Games](./Games.md)
